@@ -8,6 +8,11 @@ The project explores how modern web technologies can support reliable, transpare
 **Live Demo:** Add GitHub Pages URL  
 **Tech Stack:** React · TypeScript · Bootstrap · Node.js · Express · Vite · Vitest
 
+### App view
+
+<img width="1121" height="893" alt="civicready" src="https://github.com/user-attachments/assets/e543442a-1cca-4388-9f5b-390897ed5035" />
+
+
 ## Overview
 
 Missed court appearances can have serious consequences. CivicReady demonstrates a lightweight case-support workflow that helps staff identify upcoming hearings and manage follow-up activities.
